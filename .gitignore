@@ -1,0 +1,4 @@
+node_modules/
+public/game.js*
+# TODO: Remove at release versions.
+package-lock.json

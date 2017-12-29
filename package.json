@@ -1,0 +1,20 @@
+{
+  "name": "light-collector",
+  "version": "1.0.0",
+  "description": "Collect valuable dots of light and destroy the bad lights",
+  "main": "index.ts",
+  "scripts": {
+    "build": "node_modules/.bin/webpack"
+  },
+  "author": "Braden Walters <vc@braden-walters.info>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-loader": "^3.2.0",
+    "typescript": "^2.6.2",
+    "webpack": "^3.10.0"
+  },
+  "dependencies": {
+    "excalibur": "^0.14.0",
+    "uglifyjs-webpack-plugin": "^1.1.5"
+  }
+}
