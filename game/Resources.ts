@@ -1,6 +1,6 @@
 import * as ex from 'excalibur';
 
-enum RID {
+export enum RID {
   TexturePlayer,
 }
 
